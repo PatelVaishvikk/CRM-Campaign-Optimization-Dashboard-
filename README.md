@@ -1,5 +1,8 @@
 # **CRM Campaign Optimization Dashboard**
 
+## **Screenshots of Tableau Dashboard**
+![Dashboard Screenshot](Dashboard.png)
+
 ## **Project Overview**
 This project analyzes a bank's marketing campaign dataset to derive actionable insights and build an interactive dashboard in Tableau. The dataset contains demographic, campaign, and economic details for clients, and the goal is to optimize marketing strategies based on key performance indicators (KPIs).
 
